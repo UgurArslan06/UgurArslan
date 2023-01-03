@@ -6,7 +6,7 @@
 <a href="https://open.spotify.com/user/h96vzi6dz8t64c8in8my80b50" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 <a href="https://instagram.com/ugrslan" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://github.com/UgurArslan06" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-</br><img src="https://komarev.com/ghpvc/?username=Fayikcim&color=dc143c"/>
+</br><img src="https://komarev.com/ghpvc/?username=UgurArslan06&color=dc143c"/>
 </p>
 
 ## Langauges I Know:
